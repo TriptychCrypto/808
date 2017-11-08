@@ -100,7 +100,7 @@
            </font>
           </property>
           <property name="text">
-           <string>Boko </string>
+           <string>Deku </string>
           </property>
          </widget>
         </item>
@@ -113,7 +113,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="../bitcoin.qrc">:/icons/Boko_tooltip</pixmap>
+        <pixmap resource="../bitcoin.qrc">:/icons/Deku_tooltip</pixmap>
        </property>
        <property name="scaledContents">
         <bool>false</bool>

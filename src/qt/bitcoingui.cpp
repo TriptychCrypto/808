@@ -1,9 +1,9 @@
 /*
- * Qt4 Boko GUI.
+ * Qt4 Deku GUI.
  *
  * W.J. van der Laan 2011-2012
  * The Bitcoin Developers 2011-2012
- * The Boko Developers 2011-2013
+ * The Deku Developers 2011-2013
  */
 #include "bitcoingui.h"
 #include "transactiontablemodel.h"
@@ -79,9 +79,9 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("Boko Wallet"));
+    setWindowTitle(tr("Deku Wallet"));
 #ifndef Q_WS_MAC
-    setWindowIcon(QIcon(":icons/Boko_icon"));
+    setWindowIcon(QIcon(":icons/Deku_icon"));
 #else
     setUnifiedTitleAndToolBarOnMac(true);
     QApplication::setAttribute(Qt::AA_DontShowIconsInMenus);
@@ -229,7 +229,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(receiveCoinsAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send coins"), this);
-    sendCoinsAction->setToolTip(tr("Send coins to a Boko address"));
+    sendCoinsAction->setToolTip(tr("Send coins to a Deku address"));
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
@@ -275,17 +275,17 @@ void BitcoinGUI::createActions()
     quitAction->setToolTip(tr("Quit application"));
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
-    aboutAction = new QAction(QIcon(":/icons/Boko_tooltip"), tr("&About Boko"), this);
-    aboutAction->setToolTip(tr("Show information about Boko"));
+    aboutAction = new QAction(QIcon(":/icons/Deku_tooltip"), tr("&About Deku"), this);
+    aboutAction->setToolTip(tr("Show information about Deku"));
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(QIcon(":/icons/qt"), tr("About &Qt"), this);
     aboutQtAction->setToolTip(tr("Show information about Qt"));
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for Boko"));
+    optionsAction->setToolTip(tr("Modify configuration options for Deku"));
     optionsAction->setMenuRole(QAction::PreferencesRole);
-    toggleHideAction = new QAction(QIcon(":/icons/Boko_tooltip"), tr("Show/Hide &Boko"), this);
-    toggleHideAction->setToolTip(tr("Show or hide the Boko window"));
+    toggleHideAction = new QAction(QIcon(":/icons/Deku_tooltip"), tr("Show/Hide &Deku"), this);
+    toggleHideAction->setToolTip(tr("Show or hide the Deku window"));
     exportAction = new QAction(QIcon(":/icons/export"), tr("&Export..."), this);
     exportAction->setToolTip(tr("Export the data in the current tab to a file"));
     encryptWalletAction = new QAction(QIcon(":/icons/lock_closed"), tr("&Encrypt Wallet"), this);
@@ -377,14 +377,14 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
             QString title_testnet = windowTitle() + QString(" ") + tr("[testnet]");
             setWindowTitle(title_testnet);
 #ifndef Q_WS_MAC
-            setWindowIcon(QIcon(":icons/Boko_icon"));
+            setWindowIcon(QIcon(":icons/Deku_icon"));
 #else
-            MacDockIconHandler::instance()->setIcon(QIcon(":icons/Boko_icon"));
+            MacDockIconHandler::instance()->setIcon(QIcon(":icons/Deku_icon"));
 #endif
             if(trayIcon)
             {
                 trayIcon->setToolTip(title_testnet);
-                trayIcon->setIcon(QIcon(":/icons/Boko_tooltip"));
+                trayIcon->setIcon(QIcon(":/icons/Deku_tooltip"));
             }
         }
 
@@ -440,8 +440,8 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("Boko client"));
-    trayIcon->setIcon(QIcon(":/icons/Boko_tooltip"));
+    trayIcon->setToolTip(tr("Deku client"));
+    trayIcon->setIcon(QIcon(":/icons/Deku_tooltip"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
             this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
     trayIcon->show();
@@ -533,7 +533,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Boko network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Deku network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count)

@@ -505,7 +505,7 @@ void CoinControlDialog::updateLabels(WalletModel *model, QDialog* dialog)
                 nPayFee += nMoveToFee;
             }
 
-            // Boko: sub-cent change is moved to fee
+            // Deku: sub-cent change is moved to fee
             if (nChange > 0 && nChange < MIN_TXOUT_AMOUNT)
             {
                 nPayFee += nChange;

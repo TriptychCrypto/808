@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Boko</source>
-        <translation>关于Boko</translation>
+        <source>About Deku</source>
+        <translation>关于Deku</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Boko Developers</source>
-        <translation>版权归Boko开发者所有 © 2014 Boko Developers</translation>
+        <source>Copyright © 2014 Deku Developers</source>
+        <translation>版权归Deku开发者所有 © 2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Boko Developers</source>
-        <translation>版权归Boko开发者所有  © 2011-2014 Boko Developers</translation>
+        <source>Copyright © 2011-2014 Deku Developers</source>
+        <translation>版权归Deku开发者所有  © 2011-2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -33,7 +33,7 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished">版权归比特币开发者所有  © 2009-2013 Boko Developers
+        <translation type="unfinished">版权归比特币开发者所有  © 2009-2013 Deku Developers
 
 这是一个实验性软件。
 
@@ -51,7 +51,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Deku addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -268,7 +268,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
+        <source>Deku will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dekus from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -384,7 +384,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Boko</source>
+        <source>Show information about Deku</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -499,38 +499,38 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Boko Wallet</source>
-        <translation>Boko钱包</translation>
+        <source>Deku Wallet</source>
+        <translation>Deku钱包</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Boko address</source>
-        <translation>向一个Boko地址发送币</translation>
+        <source>Send coins to a Deku address</source>
+        <translation>向一个Deku地址发送币</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Boko</source>
-        <translation>关于Boko(&amp;A)</translation>
+        <source>&amp;About Deku</source>
+        <translation>关于Deku(&amp;A)</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Boko</source>
+        <source>Modify configuration options for Deku</source>
         <translation>设置选项</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Boko</source>
-        <translation>显示/隐藏&amp;Boko</translation>
+        <source>Show/Hide &amp;Deku</source>
+        <translation>显示/隐藏&amp;Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Boko window</source>
+        <source>Show or hide the Deku window</source>
         <translation>显示或隐藏主窗口</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Boko client</source>
-        <translation>Boko客户端</translation>
+        <source>Deku client</source>
+        <translation>Deku客户端</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -539,9 +539,9 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Boko network</source>
+        <source>%n active connection(s) to Deku network</source>
         <translation>
-            <numerusform>%n条到Boko网络的活动连接</numerusform>
+            <numerusform>%n条到Deku网络的活动连接</numerusform>
         </translation>
     </message>
     <message>
@@ -674,8 +674,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
-        <translation>发生致命错误。Boko无法继续安全运行，将要退出。</translation>
+        <source>A fatal error occured. Deku can no longer continue safely and will quit.</source>
+        <translation>发生致命错误。Deku无法继续安全运行，将要退出。</translation>
     </message>
 </context>
 <context>
@@ -712,7 +712,7 @@ Address: %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 Boko</translation>
+        <translation>0.00 Deku</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -980,7 +980,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Boko addresses in the transaction list</source>
+        <source>Whether to show Deku addresses in the transaction list</source>
         <translation>是否需要在交易清单中显示币地址</translation>
     </message>
     <message>
@@ -1048,7 +1048,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Deku address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1091,8 +1091,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自动在路由器中打开Boko端口。只有当您的路由器支持并开启了 UPnP 选项时此功能才有效。</translation>
+        <source>Automatically open the Deku client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自动在路由器中打开Deku端口。只有当您的路由器支持并开启了 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1126,7 +1126,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Deku fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1146,13 +1146,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Boko on window system startup</source>
-        <translation>系统启动时运行Boko(&amp;S)</translation>
+        <source>&amp;Start Deku on window system startup</source>
+        <translation>系统启动时运行Deku(&amp;S)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Boko after the computer is turned on</source>
-        <translation>计算机启动后自动开启Boko客户端</translation>
+        <source>Automatically start Deku after the computer is turned on</source>
+        <translation>计算机启动后自动开启Deku客户端</translation>
     </message>
 </context>
 <context>
@@ -1436,8 +1436,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1479,8 +1479,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Boko (Boko) debug window</source>
-        <translation>Boko (Boko)调试窗口</translation>
+        <source>Deku (Deku) debug window</source>
+        <translation>Deku (Deku)调试窗口</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1571,8 +1571,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>欢迎来到Boko RPC 控制台。&lt;br&gt;使用上下方向键浏览历史,  &lt;b&gt;Ctrl-L&lt;/b&gt;清除屏幕。&lt;br&gt;使用 &lt;b&gt;help&lt;/b&gt; 命令显示帮助信息。</translation>
+        <source>Welcome to the Deku RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>欢迎来到Deku RPC 控制台。&lt;br&gt;使用上下方向键浏览历史,  &lt;b&gt;Ctrl-L&lt;/b&gt;清除屏幕。&lt;br&gt;使用 &lt;b&gt;help&lt;/b&gt; 命令显示帮助信息。</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 Boko</translation>
+        <translation>0.00 Deku</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1805,7 +1805,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Boko address</source>
+        <source>Enter a Deku address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1894,8 +1894,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Boko address</source>
-        <translation>输入Boko地址</translation>
+        <source>Enter a Deku address</source>
+        <translation>输入Deku地址</translation>
     </message>
 </context>
 <context>
@@ -1959,7 +1959,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Boko address</source>
+        <source>Sign the message to prove you own this Deku address</source>
         <translation>签名消息，证明这个地址属于您</translation>
     </message>
     <message>
@@ -1995,8 +1995,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Boko address</source>
-        <translation>验证消息，确保消息是由指定的Boko地址签名过的</translation>
+        <source>Verify the message to ensure it was signed with the specified Deku address</source>
+        <translation>验证消息，确保消息是由指定的Deku地址签名过的</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Boko address</source>
-        <translation>输入一个Boko地址</translation>
+        <source>Enter a Deku address</source>
+        <translation>输入一个Deku地址</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2578,18 +2578,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
+        <source>Unable to bind to port %d on this computer.  Deku is probably already running.</source>
         <translation>无法绑定本机端口 %s Perunity可能已经在运行。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Boko version</source>
-        <translation>Boko版本</translation>
+        <source>Deku version</source>
+        <translation>Deku版本</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or Bokod</source>
-        <translation>向 -server或 Bokod发命令</translation>
+        <source>Send command to -server or Dekud</source>
+        <translation>向 -server或 Dekud发命令</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2608,13 +2608,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: Boko.conf)</source>
-        <translation>指定配置文件 (默认为 Boko.conf)</translation>
+        <source>Specify configuration file (default: Deku.conf)</source>
+        <translation>指定配置文件 (默认为 Deku.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: Bokod.pid)</source>
-        <translation>指定 pid 文件 (默认为 Bokod.pid)
+        <source>Specify pid file (default: Dekud.pid)</source>
+        <translation>指定 pid 文件 (默认为 Dekud.pid)
 </translation>
     </message>
     <message>
@@ -2673,8 +2673,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
-        <translation>监听端口连接 &lt;port&gt; (缺省: Boko7 或测试网络: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Deku7 or testnet: 9903)</source>
+        <translation>监听端口连接 &lt;port&gt; (缺省: Deku7 或测试网络: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
-        <translation>JSON-RPC连接监听&lt;端口&gt; (默认为 Boko5)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Deku5)</source>
+        <translation>JSON-RPC连接监听&lt;端口&gt; (默认为 Deku5)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
@@ -2883,23 +2883,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
-        <translation>无法锁住数据目录%s。Boko可能已经在运行中。</translation>
+        <source>Cannot obtain a lock on data directory %s.  Deku is probably already running.</source>
+        <translation>无法锁住数据目录%s。Deku可能已经在运行中。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
-        <translation>wallet.dat钱包文件加载错误：钱包需要更新版本的Boko</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Deku</source>
+        <translation>wallet.dat钱包文件加载错误：钱包需要更新版本的Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Boko to complete</source>
-        <translation>钱包文件需要被重写：请重新启动Boko客户端</translation>
+        <source>Wallet needed to be rewritten: restart Deku to complete</source>
+        <translation>钱包文件需要被重写：请重新启动Deku客户端</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2915,8 +2915,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
-        <translation>警告：请检查电脑的日期时间设置是否正确。时间错误可能会导致Boko客户端运行异常。</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Deku will not work properly.</source>
+        <translation>警告：请检查电脑的日期时间设置是否正确。时间错误可能会导致Deku客户端运行异常。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin Developers
-// Copyright (c) 2011-2012 The Boko developers
+// Copyright (c) 2011-2012 The Deku developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -277,8 +277,8 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 18,  // Boko: addresses begin with '8'
-        SCRIPT_ADDRESS = 25, // Boko: addresses begin with 'B'
+        PUBKEY_ADDRESS = 18,  // Deku: addresses begin with '8'
+        SCRIPT_ADDRESS = 25, // Deku: addresses begin with 'B'
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };

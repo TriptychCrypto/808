@@ -15,8 +15,8 @@
 #include <string>
 #include "uint256.h"
 
-#define PPCOIN_PORT  Boko7
-#define RPC_PORT     Boko5
+#define PPCOIN_PORT  Deku7
+#define RPC_PORT     Deku5
 #define TESTNET_PORT 6903
 #define TESTNET_RPC_PORT 6904
 

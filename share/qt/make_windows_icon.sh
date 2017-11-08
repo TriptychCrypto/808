@@ -1,9 +1,9 @@
 #!/bin/bash
 # create multiresolution windows icon
-ICON_SRC=../../src/qt/res/icons/Boko.png
-ICON_DST=../../src/qt/res/icons/Boko.ico
-convert ${ICON_SRC} -resize 16x16 Boko-16.png
-convert ${ICON_SRC} -resize 32x32 Boko-32.png
-convert ${ICON_SRC} -resize 48x48 Boko-48.png
-convert Boko-48.png Boko-32.png Boko-16.png ${ICON_DST}
+ICON_SRC=../../src/qt/res/icons/Deku.png
+ICON_DST=../../src/qt/res/icons/Deku.ico
+convert ${ICON_SRC} -resize 16x16 Deku-16.png
+convert ${ICON_SRC} -resize 32x32 Deku-32.png
+convert ${ICON_SRC} -resize 48x48 Deku-48.png
+convert Deku-48.png Deku-32.png Deku-16.png ${ICON_DST}
 

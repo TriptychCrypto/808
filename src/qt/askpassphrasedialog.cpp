@@ -114,7 +114,7 @@ void AskPassphraseDialog::accept()
                 if(model->setWalletEncrypted(true, newpass1))
                 {
                     QMessageBox::warning(this, tr("Wallet encrypted"),
-                                         tr("Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer."));
+                                         tr("Deku will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dekus from being stolen by malware infecting your computer."));
                     QApplication::quit();
                 }
                 else

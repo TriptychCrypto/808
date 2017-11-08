@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Boko</source>
-        <translation>Om Boko</translation>
+        <source>About Deku</source>
+        <translation>Om Deku</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Boko Developers</source>
-        <translation>Copyright © 2014 Boko Utviklerne</translation>
+        <source>Copyright © 2014 Deku Developers</source>
+        <translation>Copyright © 2014 Deku Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Boko Developers</source>
-        <translation>Copyright © 2015 Boko Utviklerne</translation>
+        <source>Copyright © 2011-2014 Deku Developers</source>
+        <translation>Copyright © 2015 Deku Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL Project for bruk i Op
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Boko-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
+        <source>These are your Deku addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Deku-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
-        <translation>Boko vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
+        <source>Deku will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dekus from being stolen by malware infecting your computer.</source>
+        <translation>Deku vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Boko</source>
-        <translation>Vis informasjon om Boko</translation>
+        <source>Show information about Deku</source>
+        <translation>Vis informasjon om Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Boko Wallet</source>
-        <translation>Boko Lommebok</translation>
+        <source>Deku Wallet</source>
+        <translation>Deku Lommebok</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Boko address</source>
-        <translation>Send mynter til en Boko-adresse</translation>
+        <source>Send coins to a Deku address</source>
+        <translation>Send mynter til en Deku-adresse</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Boko</source>
-        <translation>&amp;Om Boko</translation>
+        <source>&amp;About Deku</source>
+        <translation>&amp;Om Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Boko</source>
-        <translation>Endre oppsett for Boko</translation>
+        <source>Modify configuration options for Deku</source>
+        <translation>Endre oppsett for Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Boko</source>
-        <translation>Vis/Skjul &amp;Boko</translation>
+        <source>Show/Hide &amp;Deku</source>
+        <translation>Vis/Skjul &amp;Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Boko window</source>
-        <translation>Vis eller skjul Boko-vinduet</translation>
+        <source>Show or hide the Deku window</source>
+        <translation>Vis eller skjul Deku-vinduet</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Boko client</source>
-        <translation>Boko klient</translation>
+        <source>Deku client</source>
+        <translation>Deku klient</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Boko network</source>
+        <source>%n active connection(s) to Deku network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -678,8 +678,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Boko må derfor avslutte.</translation>
+        <source>A fatal error occured. Deku can no longer continue safely and will quit.</source>
+        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Deku må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -716,7 +716,7 @@ Adresse: %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 Boko</translation>
+        <translation>0.00 Deku</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -980,8 +980,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Boko addresses in the transaction list</source>
-        <translation>Om Boko-adresser skal vises i transaksjonslisten eller ikke.</translation>
+        <source>Whether to show Deku addresses in the transaction list</source>
+        <translation>Om Deku-adresser skal vises i transaksjonslisten eller ikke.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1048,8 +1048,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
-        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig Boko-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Deku address.</source>
+        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig Deku-adresse.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1091,8 +1091,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk Boko klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <source>Automatically open the Deku client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åpne automatisk Deku klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1102,7 +1102,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Koble til Boko sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
+        <translation>Koble til Deku sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1126,8 +1126,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 Boko. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Deku fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 Deku. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1146,13 +1146,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Boko on window system startup</source>
-        <translation>&amp;Start Boko ved oppstart av datamaskinen</translation>
+        <source>&amp;Start Deku on window system startup</source>
+        <translation>&amp;Start Deku ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Boko after the computer is turned on</source>
-        <translation>Start Boko automatisk når datamaskinen blir slått på</translation>
+        <source>Automatically start Deku after the computer is turned on</source>
+        <translation>Start Deku automatisk når datamaskinen blir slått på</translation>
     </message>
 </context>
 <context>
@@ -1436,8 +1436,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1479,8 +1479,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Boko (Boko) debug window</source>
-        <translation>Boko feilsøkingsvindu</translation>
+        <source>Deku (Deku) debug window</source>
+        <translation>Deku feilsøkingsvindu</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1571,8 +1571,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Velkommen til Boko sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
+        <source>Welcome to the Deku RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Velkommen til Deku sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 Boko</translation>
+        <translation>0.00 Deku</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1706,7 +1706,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="714"/>
         <source>123.456 BTC</source>
-        <translation>123.456 Boko</translation>
+        <translation>123.456 Deku</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="745"/>
@@ -1786,7 +1786,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Advarsel: Ugyldig Boko-adresse</translation>
+        <translation>Advarsel: Ugyldig Deku-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1805,8 +1805,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Boko address</source>
-        <translation>Angi en Boko-adresse</translation>
+        <source>Enter a Deku address</source>
+        <translation>Angi en Deku-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1894,8 +1894,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Boko address</source>
-        <translation>Angi en Boko-adresse</translation>
+        <source>Enter a Deku address</source>
+        <translation>Angi en Deku-adresse</translation>
     </message>
 </context>
 <context>
@@ -1959,8 +1959,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Boko address</source>
-        <translation>Signer meldingen for å bevise at du eier denne Boko-adressen</translation>
+        <source>Sign the message to prove you own this Deku address</source>
+        <translation>Signer meldingen for å bevise at du eier denne Deku-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1995,8 +1995,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Boko address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Boko-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Deku address</source>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Deku-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2021,8 +2021,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Boko address</source>
-        <translation>Angi en Boko-adresse</translation>
+        <source>Enter a Deku address</source>
+        <translation>Angi en Deku-adresse</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2580,18 +2580,18 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
-        <translation>Ute av stand til å binde til port %d på denne datamaskinen. Boko kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to port %d on this computer.  Deku is probably already running.</source>
+        <translation>Ute av stand til å binde til port %d på denne datamaskinen. Deku kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Boko version</source>
-        <translation>Boko versjon</translation>
+        <source>Deku version</source>
+        <translation>Deku versjon</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or Bokod</source>
-        <translation>Send kommando til -server eller Bokod</translation>
+        <source>Send command to -server or Dekud</source>
+        <translation>Send kommando til -server eller Dekud</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2610,13 +2610,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: Boko.conf)</source>
-        <translation>Angi konfigurasjonsfil (standardverdi: Boko.conf)</translation>
+        <source>Specify configuration file (default: Deku.conf)</source>
+        <translation>Angi konfigurasjonsfil (standardverdi: Deku.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: Bokod.pid)</source>
-        <translation>Angi pid-fil (standardverdi: Bokod.pid)</translation>
+        <source>Specify pid file (default: Dekud.pid)</source>
+        <translation>Angi pid-fil (standardverdi: Dekud.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2670,8 +2670,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
-        <translation>Lytt etter tilkoblinger på &lt;port&gt; (standardverdi: Boko7 eller testnett: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Deku7 or testnet: 9903)</source>
+        <translation>Lytt etter tilkoblinger på &lt;port&gt; (standardverdi: Deku7 eller testnett: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2790,8 +2790,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
-        <translation>Lytt etter JSON-RPC tilkoblinger på &lt;port&gt; (standardverdi: Boko5)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Deku5)</source>
+        <translation>Lytt etter JSON-RPC tilkoblinger på &lt;port&gt; (standardverdi: Deku5)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
@@ -2871,23 +2871,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. Boko kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Deku is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. Deku kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Boko</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Deku</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Boko to complete</source>
-        <translation>Lommeboken måtte skrives om: start Boko på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart Deku to complete</source>
+        <translation>Lommeboken måtte skrives om: start Deku på nytt for å fullføre</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2903,8 +2903,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
-        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke Boko fungere skikkelig.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Deku will not work properly.</source>
+        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke Deku fungere skikkelig.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

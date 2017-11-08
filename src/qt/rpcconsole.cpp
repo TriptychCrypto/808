@@ -296,14 +296,14 @@ void RPCConsole::clear()
     // Set default style sheet
     ui->messagesWidget->document()->setDefaultStyleSheet(
                 "table { }"
-                "td.time { color: #Boko080; padding-top: 3px; } "
+                "td.time { color: #Deku080; padding-top: 3px; } "
                 "td.message { font-family: Monospace; font-size: 12px; } "
                 "td.cmd-request { color: #006060; } "
                 "td.cmd-error { color: red; } "
                 "b { color: #006060; } "
                 );
 
-    message(CMD_REPLY, tr("Welcome to the Boko RPC console.<br>"
+    message(CMD_REPLY, tr("Welcome to the Deku RPC console.<br>"
                           "Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.<br>"
                           "Type <b>help</b> for an overview of available commands."), true);
 }

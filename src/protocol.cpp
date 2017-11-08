@@ -21,9 +21,9 @@ static unsigned char pchMessageStartTestOld[4] = { 0xcd, 0xb1, 0xe2, 0xde };
 static unsigned char pchMessageStartTestNew[4] = { 0xde, 0xc2, 0xd0, 0xde };
 static unsigned int nMessageStartTestSwitchTime = 1346200000;
 
-// Boko message start (switch from Bitcoin's in v0.2)
+// Deku message start (switch from Bitcoin's in v0.2)
 static unsigned char pchMessageStartBitcoin[4] = { 0xcd, 0xbe, 0xb4, 0xdc };
-static unsigned char pchMessageStartBoko[4] = { 0xc6, 0xd5, 0xe3, 0xcb };
+static unsigned char pchMessageStartDeku[4] = { 0xc6, 0xd5, 0xe3, 0xcb };
 static unsigned int nMessageStartSwitchTime = 1347300000;
 
 void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
@@ -31,7 +31,7 @@ void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
     if (fTestNet)
         memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartTestSwitchTime)? pchMessageStartTestNew : pchMessageStartTestOld, sizeof(pchMessageStartTestNew));
     else
-        memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartSwitchTime)? pchMessageStartBoko : pchMessageStartBitcoin, sizeof(pchMessageStartBoko));
+        memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartSwitchTime)? pchMessageStartDeku : pchMessageStartBitcoin, sizeof(pchMessageStartDeku));
 }
 
 static const char* ppszTypeName[] =

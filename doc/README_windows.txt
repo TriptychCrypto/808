@@ -1,6 +1,6 @@
-Boko (Boko) 0.4.0 BETA
+Deku (Deku) 0.4.0 BETA
 
-Copyright (c) 2011-2014 Boko (Boko) Developers
+Copyright (c) 2011-2014 Deku (Deku) Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -10,7 +10,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Boko is a free open source project derived from Bitcoin, with
+Deku is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient crypto-currency.
 Built on the foundation of Bitcoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
@@ -18,35 +18,35 @@ help further advance the field of crypto-currency.
 
 Setup
 -----
-After completing windows setup then run Boko-qt.
-Alternatively you can run windows command line (cmd) in Boko program dir.
+After completing windows setup then run Deku-qt.
+Alternatively you can run windows command line (cmd) in Deku program dir.
   cd daemon
-  Bokod
-You would need to create a configuration file Boko.conf in the default
-wallet directory. Grant access to Bokod/Boko-qt in anti-virus and firewall
+  Dekud
+You would need to create a configuration file Deku.conf in the default
+wallet directory. Grant access to Dekud/Deku-qt in anti-virus and firewall
 applications if necessary.
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
-or forward port Boko7 (TCP) to your computer so you can receive
-incoming connections.  Boko works without incoming connections,
-but allowing incoming connections helps the Boko network.
+or forward port Deku7 (TCP) to your computer so you can receive
+incoming connections.  Deku works without incoming connections,
+but allowing incoming connections helps the Deku network.
 
 
 Upgrade
 -------
 All your existing coins/transactions should be intact with the upgrade.
 To upgrade from 0.3, first backup wallet in qt menu or by command line
-Bokod backupwallet <destination_backup_file>
-Then shutdown Bokod by
-Bokod stop
+Dekud backupwallet <destination_backup_file>
+Then shutdown Dekud by
+Dekud stop
 Uninstall v0.3 client, download and install v0.4 client.
 If upgrade is performed after upgrade deadline, blockchain re-download is
 required.
 
 
 See the documentation/wiki at github:
-  http://github.com/Boko/Boko
+  http://github.com/Deku/Deku
 for help and more information.
 
 

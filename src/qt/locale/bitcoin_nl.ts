@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Boko</source>
-        <translation>Over Boko</translation>
+        <source>About Deku</source>
+        <translation>Over Deku</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Boko Developers</source>
-        <translation>Copyright © 2014 Boko Developers</translation>
+        <source>Copyright © 2014 Deku Developers</source>
+        <translation>Copyright © 2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Boko Developers</source>
-        <translation>Copyright © 2011-2014 Boko Developers</translation>
+        <source>Copyright © 2011-2014 Deku Developers</source>
+        <translation>Copyright © 2011-2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Dit product bevat code ontwikkeld door het OpenSSL project voor het gebruik in h
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn je Boko adressen om bedragen te ontvangen. Je kan een verschillend adres opgeven voor iedere geaddresseerde zodat je kan achterhalen wie jouw betaalt.</translation>
+        <source>These are your Deku addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn je Deku adressen om bedragen te ontvangen. Je kan een verschillend adres opgeven voor iedere geaddresseerde zodat je kan achterhalen wie jouw betaalt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
-        <translation>Boko sluit nu af om het versleutelings proces te beeindigen. Onthoud dat het versleutelen van de portemonnee je Bokos niet volledig kan beschermen tegen schadelijke software op een geinfecteerde computer</translation>
+        <source>Deku will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dekus from being stolen by malware infecting your computer.</source>
+        <translation>Deku sluit nu af om het versleutelings proces te beeindigen. Onthoud dat het versleutelen van de portemonnee je Dekus niet volledig kan beschermen tegen schadelijke software op een geinfecteerde computer</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Boko</source>
-        <translation>Toon informatie over Boko</translation>
+        <source>Show information about Deku</source>
+        <translation>Toon informatie over Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Boko Wallet</source>
-        <translation>Boko portemonnee</translation>
+        <source>Deku Wallet</source>
+        <translation>Deku portemonnee</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Boko address</source>
-        <translation>Zend munten naar een Boko adres</translation>
+        <source>Send coins to a Deku address</source>
+        <translation>Zend munten naar een Deku adres</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Boko</source>
-        <translation>Over Boko</translation>
+        <source>&amp;About Deku</source>
+        <translation>Over Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Boko</source>
-        <translation>Wijzig configuratie opties voor Boko</translation>
+        <source>Modify configuration options for Deku</source>
+        <translation>Wijzig configuratie opties voor Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Boko</source>
-        <translation>Toon/Verberg &amp;Boko</translation>
+        <source>Show/Hide &amp;Deku</source>
+        <translation>Toon/Verberg &amp;Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Boko window</source>
-        <translation>Toon of verberg het Boko scherm</translation>
+        <source>Show or hide the Deku window</source>
+        <translation>Toon of verberg het Deku scherm</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Boko client</source>
-        <translation>Boko client</translation>
+        <source>Deku client</source>
+        <translation>Deku client</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Boko network</source>
+        <source>%n active connection(s) to Deku network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -678,8 +678,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout heeft plaatsgevonden. Boko kan niet langer veilig doorgaan en zal afsluiten.</translation>
+        <source>A fatal error occured. Deku can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout heeft plaatsgevonden. Deku kan niet langer veilig doorgaan en zal afsluiten.</translation>
     </message>
 </context>
 <context>
@@ -976,8 +976,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Boko addresses in the transaction list</source>
-        <translation>Toon Bokoadressen in transactielijst</translation>
+        <source>Whether to show Deku addresses in the transaction list</source>
+        <translation>Toon Dekuadressen in transactielijst</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1044,8 +1044,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Boko adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Deku address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Deku adres.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1087,8 +1087,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open automatisch de Boko client poort op de router. Dit werkt alleen indien je router PnP ondersteund en het geactiveerd is.</translation>
+        <source>Automatically open the Deku client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open automatisch de Deku client poort op de router. Dit werkt alleen indien je router PnP ondersteund en het geactiveerd is.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1098,7 +1098,7 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Verbind met het Boko-netwerk door een SOCKS4 proxy (bijv. wanneer Tor gebruikt wordt)</translation>
+        <translation>Verbind met het Deku-netwerk door een SOCKS4 proxy (bijv. wanneer Tor gebruikt wordt)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1122,8 +1122,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Verplichte network transactie kosten per verstuurde kB. De meeste transacties zijn 1kB en kosten 0.01 Boko. Opm. Het aantal verstuurde kB neemt toe afhankelijk van het aantal ingebrachte transacties benodigd om de betaling te kunnen bekostigen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Deku fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Verplichte network transactie kosten per verstuurde kB. De meeste transacties zijn 1kB en kosten 0.01 Deku. Opm. Het aantal verstuurde kB neemt toe afhankelijk van het aantal ingebrachte transacties benodigd om de betaling te kunnen bekostigen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1142,13 +1142,13 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Boko on window system startup</source>
-        <translation>Start Boko als windows wordt geladen</translation>
+        <source>&amp;Start Deku on window system startup</source>
+        <translation>Start Deku als windows wordt geladen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Boko after the computer is turned on</source>
-        <translation>Start Boko automatisch nadat de computer is ingeschakeld</translation>
+        <source>Automatically start Deku after the computer is turned on</source>
+        <translation>Start Deku automatisch nadat de computer is ingeschakeld</translation>
     </message>
 </context>
 <context>
@@ -1432,8 +1432,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1475,8 +1475,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Boko (Boko) debug window</source>
-        <translation>Boko (PPcoin) debug scherm</translation>
+        <source>Deku (Deku) debug window</source>
+        <translation>Deku (PPcoin) debug scherm</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1567,8 +1567,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Welkom bij de Boko RPC console. &lt;br&gt;Gebruik pijltjes naar boven en naar beneden om de geschiedenis te navigeren, en &lt;b&gt;Ctrl-L&lt;/b&gt; om het scherm te wissen.&lt;br&gt;Typ &lt;b&gt;help&lt;/b&gt; voor een overzicht met commandos.</translation>
+        <source>Welcome to the Deku RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Welkom bij de Deku RPC console. &lt;br&gt;Gebruik pijltjes naar boven en naar beneden om de geschiedenis te navigeren, en &lt;b&gt;Ctrl-L&lt;/b&gt; om het scherm te wissen.&lt;br&gt;Typ &lt;b&gt;help&lt;/b&gt; voor een overzicht met commandos.</translation>
     </message>
 </context>
 <context>
@@ -1782,7 +1782,7 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Waarschuwing: Ongeldig Boko adres</translation>
+        <translation>Waarschuwing: Ongeldig Deku adres</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1801,8 +1801,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Boko address</source>
-        <translation>Voer een Boko adres in</translation>
+        <source>Enter a Deku address</source>
+        <translation>Voer een Deku adres in</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1890,8 +1890,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Boko address</source>
-        <translation>Voer een Boko adres in</translation>
+        <source>Enter a Deku address</source>
+        <translation>Voer een Deku adres in</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Boko address</source>
-        <translation>Bewijs dat je dit Boko adres bezit door het te ondertekenen </translation>
+        <source>Sign the message to prove you own this Deku address</source>
+        <translation>Bewijs dat je dit Deku adres bezit door het te ondertekenen </translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1991,8 +1991,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Boko address</source>
-        <translation>Verifieer het bericht om vast te stellen dat het bericht ondertekend was met het gespecificeerde Boko adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Deku address</source>
+        <translation>Verifieer het bericht om vast te stellen dat het bericht ondertekend was met het gespecificeerde Deku adres</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2017,8 +2017,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Boko address</source>
-        <translation>Voer een Boko adres in</translation>
+        <source>Enter a Deku address</source>
+        <translation>Voer een Deku adres in</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2576,18 +2576,18 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
-        <translation>Onmogelijk om poort %d te verbinden op deze computer. Boko is mogelijk al eerder opgestart.</translation>
+        <source>Unable to bind to port %d on this computer.  Deku is probably already running.</source>
+        <translation>Onmogelijk om poort %d te verbinden op deze computer. Deku is mogelijk al eerder opgestart.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Boko version</source>
-        <translation>Boko versie</translation>
+        <source>Deku version</source>
+        <translation>Deku versie</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or Bokod</source>
-        <translation>Zend commando naar -server of Bokod</translation>
+        <source>Send command to -server or Dekud</source>
+        <translation>Zend commando naar -server of Dekud</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2609,13 +2609,13 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: Boko.conf)</source>
-        <translation>Configuratiebestand specificeren (standaard: Boko.conf)</translation>
+        <source>Specify configuration file (default: Deku.conf)</source>
+        <translation>Configuratiebestand specificeren (standaard: Deku.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: Bokod.pid)</source>
-        <translation>Specifieer pid-bestand (standaard: Bokod.pid)
+        <source>Specify pid file (default: Dekud.pid)</source>
+        <translation>Specifieer pid-bestand (standaard: Dekud.pid)
 </translation>
     </message>
     <message>
@@ -2676,8 +2676,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
-        <translation>Luister voor verbindingen op &lt;port&gt; (standaard:Boko7 of testnet: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Deku7 or testnet: 9903)</source>
+        <translation>Luister voor verbindingen op &lt;port&gt; (standaard:Deku7 of testnet: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2802,8 +2802,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
-        <translation>Luister voor JSON-RPC verbindingen op &lt;port&gt; (standaard: Boko5)
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Deku5)</source>
+        <translation>Luister voor JSON-RPC verbindingen op &lt;port&gt; (standaard: Deku5)
 </translation>
     </message>
     <message>
@@ -2890,23 +2890,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
-        <translation>Blokkeren van data folder %s is niet gelukt. Boko is mogelijk al opgestart.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Deku is probably already running.</source>
+        <translation>Blokkeren van data folder %s is niet gelukt. Deku is mogelijk al opgestart.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
-        <translation>Fout geconstateerd bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Boko</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Deku</source>
+        <translation>Fout geconstateerd bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Boko to complete</source>
-        <translation>Portemonnee dient opnieuw bewerkt te worden: start Boko opnieuw op om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Deku to complete</source>
+        <translation>Portemonnee dient opnieuw bewerkt te worden: start Deku opnieuw op om te voltooien</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2922,8 +2922,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
-        <translation>Waarschuwing: controleer of de datum en tijd op uw computer correct zijn. Indien uw klok verkeerd staat, zal Boko niet goed werken</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Deku will not work properly.</source>
+        <translation>Waarschuwing: controleer of de datum en tijd op uw computer correct zijn. Indien uw klok verkeerd staat, zal Deku niet goed werken</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

@@ -102,7 +102,7 @@
                </sizepolicy>
               </property>
               <property name="text">
-               <string>Boko</string>
+               <string>Deku</string>
               </property>
               <property name="buddy">
                <cstring>lnReqAmount</cstring>

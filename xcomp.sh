@@ -47,7 +47,7 @@
      BDB_LIB_PATH=${BDB_LIB_PATH} \
      MINIUPNPC_INCLUDE_PATH=${MINIUPNPC_INCLUDE_PATH} \
      MINIUPNPC_LIB_PATH=${MINIUPNPC_LIB_PATH} \
-     QMAKE_LRELEASE=${QMAKE_LRELEASE} Boko.pro
+     QMAKE_LRELEASE=${QMAKE_LRELEASE} Deku.pro
  
- # Go for it. If successful, Windows binary will be written out to ./release/Boko.exe
+ # Go for it. If successful, Windows binary will be written out to ./release/Deku.exe
  make -f Makefile.Release CXXFLAGS="-DQT_GUI -DQT_NO_PRINTER -std=gnu++11 -march=i686" LDFLAGS="-march=i686"

@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Boko</source>
-        <translation>Tentang Boko</translation>
+        <source>About Deku</source>
+        <translation>Tentang Deku</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Deku&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Boko Developers</source>
-        <translation>Copyright © 2014 Boko Developers</translation>
+        <source>Copyright © 2014 Deku Developers</source>
+        <translation>Copyright © 2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Boko Developers</source>
-        <translation>Copyright © 2011-2014 Boko Developers</translation>
+        <source>Copyright © 2011-2014 Deku Developers</source>
+        <translation>Copyright © 2011-2014 Deku Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Produk ini berisi software yang dikembangkan oleh OpenSSL Project untuk digunaka
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ini adalah alamat Boko Anda untuk menerima pembayaran. Anda mungkin ingin memberikan yang berbeda untuk masing-masing pengirim sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
+        <source>These are your Deku addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ini adalah alamat Deku Anda untuk menerima pembayaran. Anda mungkin ingin memberikan yang berbeda untuk masing-masing pengirim sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
-        <translation>Boko akan menutup sekarang untuk menyelesaikan proses enkripsi. Ingat bahwa mengenkripsi dompet Anda tidak dapat sepenuhnya melindungi Bokos Anda dari yang dicuri oleh malware menginfeksi komputer Anda.</translation>
+        <source>Deku will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dekus from being stolen by malware infecting your computer.</source>
+        <translation>Deku akan menutup sekarang untuk menyelesaikan proses enkripsi. Ingat bahwa mengenkripsi dompet Anda tidak dapat sepenuhnya melindungi Dekus Anda dari yang dicuri oleh malware menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Boko</source>
-        <translation>Tampilkan informasi tentang Boko</translation>
+        <source>Show information about Deku</source>
+        <translation>Tampilkan informasi tentang Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Boko Wallet</source>
-        <translation>Dompet Boko</translation>
+        <source>Deku Wallet</source>
+        <translation>Dompet Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Boko address</source>
-        <translation>Kirim koin ke alamat Boko</translation>
+        <source>Send coins to a Deku address</source>
+        <translation>Kirim koin ke alamat Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Boko</source>
-        <translation>Tentang Boko</translation>
+        <source>&amp;About Deku</source>
+        <translation>Tentang Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Boko</source>
-        <translation>Memodifikasi pilihan konfigurasi untuk Boko</translation>
+        <source>Modify configuration options for Deku</source>
+        <translation>Memodifikasi pilihan konfigurasi untuk Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Boko</source>
-        <translation>Tampilkan/Sembunyikan Boko</translation>
+        <source>Show/Hide &amp;Deku</source>
+        <translation>Tampilkan/Sembunyikan Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Boko window</source>
-        <translation>Tampilkan atau sembunyikan jendela Boko</translation>
+        <source>Show or hide the Deku window</source>
+        <translation>Tampilkan atau sembunyikan jendela Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Boko client</source>
-        <translation>Klien Boko</translation>
+        <source>Deku client</source>
+        <translation>Klien Deku</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Boko network</source>
+        <source>%n active connection(s) to Deku network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
@@ -671,8 +671,8 @@ Alamat: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
-        <translation>Sebuah error fatal terjadi. Boko tidak bisa lagi melanjutkan dengan aman dan akan berhenti.</translation>
+        <source>A fatal error occured. Deku can no longer continue safely and will quit.</source>
+        <translation>Sebuah error fatal terjadi. Deku tidak bisa lagi melanjutkan dengan aman dan akan berhenti.</translation>
     </message>
 </context>
 <context>
@@ -970,8 +970,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Boko addresses in the transaction list</source>
-        <translation>Apakah menampilkan alamat Boko dalam daftar transaksi</translation>
+        <source>Whether to show Deku addresses in the transaction list</source>
+        <translation>Apakah menampilkan alamat Deku dalam daftar transaksi</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1038,8 +1038,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
-        <translation>Alamat yang di masukkan &quot;%1&quot; tidak berlaku di alamat Boko</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Deku address.</source>
+        <translation>Alamat yang di masukkan &quot;%1&quot; tidak berlaku di alamat Deku</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1081,8 +1081,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Secara otomatis membuka port klien Boko pada router. Ini hanya bekerja ketika router Anda mendukung UPnP dan diaktifkan.</translation>
+        <source>Automatically open the Deku client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Secara otomatis membuka port klien Deku pada router. Ini hanya bekerja ketika router Anda mendukung UPnP dan diaktifkan.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1116,8 +1116,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Biaya transaksi jaringan Wajib per kB ditransfer. Kebanyakan transaksi 1 kB dan dikenakan biaya 0.01 Boko. Catatan: Ukuran Transfer dapat meningkatkan tergantung pada jumlah transaksi input yang diperlukan untuk ditambahkan bersama-sama untuk mendanai pembayaran.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Deku fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Biaya transaksi jaringan Wajib per kB ditransfer. Kebanyakan transaksi 1 kB dan dikenakan biaya 0.01 Deku. Catatan: Ukuran Transfer dapat meningkatkan tergantung pada jumlah transaksi input yang diperlukan untuk ditambahkan bersama-sama untuk mendanai pembayaran.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1136,13 +1136,13 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Boko on window system startup</source>
-        <translation>Mulai Boko pada sistem jendela startup</translation>
+        <source>&amp;Start Deku on window system startup</source>
+        <translation>Mulai Deku pada sistem jendela startup</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Boko after the computer is turned on</source>
-        <translation>Otomatis mulai Boko setelah komputer dihidupkan</translation>
+        <source>Automatically start Deku after the computer is turned on</source>
+        <translation>Otomatis mulai Deku setelah komputer dihidupkan</translation>
     </message>
 </context>
 <context>
@@ -1426,8 +1426,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1469,8 +1469,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Boko (Boko) debug window</source>
-        <translation>Boko (Boko) jendela debug</translation>
+        <source>Deku (Deku) debug window</source>
+        <translation>Deku (Deku) jendela debug</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1561,8 +1561,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Selamat datang di konsol Boko RPC. &lt;br&gt;Gunakan panah atas dan bawah untuk menavigasi sejarah, dan &lt;b&gt;Ctrl-L&lt;/b&gt; untuk menghapus layar. &lt;br&gt;Type &lt;b&gt;help&lt;/b&gt;  untuk overview command yang tersedia.</translation>
+        <source>Welcome to the Deku RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Selamat datang di konsol Deku RPC. &lt;br&gt;Gunakan panah atas dan bawah untuk menavigasi sejarah, dan &lt;b&gt;Ctrl-L&lt;/b&gt; untuk menghapus layar. &lt;br&gt;Type &lt;b&gt;help&lt;/b&gt;  untuk overview command yang tersedia.</translation>
     </message>
 </context>
 <context>
@@ -1795,8 +1795,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Boko address</source>
-        <translation>Masukkan alamat Boko</translation>
+        <source>Enter a Deku address</source>
+        <translation>Masukkan alamat Deku</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1884,8 +1884,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Boko address</source>
-        <translation>Masukkan alamat Boko</translation>
+        <source>Enter a Deku address</source>
+        <translation>Masukkan alamat Deku</translation>
     </message>
 </context>
 <context>
@@ -1949,8 +1949,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Boko address</source>
-        <translation>Masuk pesan untuk membuktikan bahwa Anda sudah memiliki alamat Boko ini</translation>
+        <source>Sign the message to prove you own this Deku address</source>
+        <translation>Masuk pesan untuk membuktikan bahwa Anda sudah memiliki alamat Deku ini</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1985,8 +1985,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Boko address</source>
-        <translation>Verifikasi pesan untuk memastikan ditandatangani dengan alamati Boko yang ditentukan</translation>
+        <source>Verify the message to ensure it was signed with the specified Deku address</source>
+        <translation>Verifikasi pesan untuk memastikan ditandatangani dengan alamati Deku yang ditentukan</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2011,8 +2011,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Boko address</source>
-        <translation>Masukkan alamat Boko</translation>
+        <source>Enter a Deku address</source>
+        <translation>Masukkan alamat Deku</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2568,18 +2568,18 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
-        <translation>Tidak dapat mengikat ke port %d di komputer ini. Boko mungkin sudah berjalan.</translation>
+        <source>Unable to bind to port %d on this computer.  Deku is probably already running.</source>
+        <translation>Tidak dapat mengikat ke port %d di komputer ini. Deku mungkin sudah berjalan.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Boko version</source>
-        <translation>Versi Boko</translation>
+        <source>Deku version</source>
+        <translation>Versi Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or Bokod</source>
-        <translation>Kirim command ke -server atau Bokod</translation>
+        <source>Send command to -server or Dekud</source>
+        <translation>Kirim command ke -server atau Dekud</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2598,13 +2598,13 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: Boko.conf)</source>
-        <translation>File konfigurasi ditentukan (default: Boko.conf)</translation>
+        <source>Specify configuration file (default: Deku.conf)</source>
+        <translation>File konfigurasi ditentukan (default: Deku.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: Bokod.pid)</source>
-        <translation>Menentukan file pid (default: Bokod.pid)</translation>
+        <source>Specify pid file (default: Dekud.pid)</source>
+        <translation>Menentukan file pid (default: Dekud.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2658,8 +2658,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
-        <translation>Mendengarkan koneksi pada &lt;port&gt; (default: Boko7 or testnet: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Deku7 or testnet: 9903)</source>
+        <translation>Mendengarkan koneksi pada &lt;port&gt; (default: Deku7 or testnet: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2778,8 +2778,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
-        <translation>Mendengarkan koneksi JSON-RPC pada &lt;port&gt; (default: Boko5)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Deku5)</source>
+        <translation>Mendengarkan koneksi JSON-RPC pada &lt;port&gt; (default: Deku5)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
@@ -2859,23 +2859,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
-        <translation>Tidak dapat memperoleh kunci pada direktori data %s. Boko mungkin sudah berjalan.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Deku is probably already running.</source>
+        <translation>Tidak dapat memperoleh kunci pada direktori data %s. Deku mungkin sudah berjalan.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Boko</source>
-        <translation>Boko</translation>
+        <source>Deku</source>
+        <translation>Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
-        <translation>Error loading wallet.dat: Dompet memerlukan versi terbaru dari Boko</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Deku</source>
+        <translation>Error loading wallet.dat: Dompet memerlukan versi terbaru dari Deku</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Boko to complete</source>
-        <translation>Dompet perlu ditulis ulang: me-restart Boko untuk menyelesaikan</translation>
+        <source>Wallet needed to be rewritten: restart Deku to complete</source>
+        <translation>Dompet perlu ditulis ulang: me-restart Deku untuk menyelesaikan</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2891,8 +2891,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
-        <translation>Peringatan: Harap periksa tanggal komputer Anda dan waktu sudah benar. Jika jam Anda salah Boko tidak akan berfungsi.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Deku will not work properly.</source>
+        <translation>Peringatan: Harap periksa tanggal komputer Anda dan waktu sudah benar. Jika jam Anda salah Deku tidak akan berfungsi.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2011-2013 The Boko developers
+// Copyright (c) 2011-2013 The Deku developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -27,7 +27,7 @@ namespace Checkpoints
         boost::assign::map_list_of
         ( 0, hashGenesisBlockOfficial )
 	( 1000, uint256("0x00000068846d5894c85ff5a64968414ce6875b90303e4364c6f1bbd8988574b4"))
-        ( 242172, uint256("0x0000000000001250237e724af3ddbdfa01209784f8475e3eaf260a9Boko4a3a80"))
+        ( 242172, uint256("0x0000000000001250237e724af3ddbdfa01209784f8475e3eaf260a9Deku4a3a80"))
         ( 304776, uint256("0x0000000000002ac1061ca451d6b470e4565ac4e621adda2b09fd605cbdf8f7c1"))
          ;
 
@@ -67,7 +67,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // Boko: synchronized checkpoint (centrally broadcasted)
+    // Deku: synchronized checkpoint (centrally broadcasted)
     uint256 hashSyncCheckpoint = 0;
     uint256 hashPendingCheckpoint = 0;
     CSyncCheckpoint checkpointMessage;
@@ -75,7 +75,7 @@ namespace Checkpoints
     uint256 hashInvalidCheckpoint = 0;
     CCriticalSection cs_hashSyncCheckpoint;
 
-    // Boko: get last synchronized checkpoint
+    // Deku: get last synchronized checkpoint
     CBlockIndex* GetLastSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -86,7 +86,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // Boko: only descendant of current sync-checkpoint is allowed
+    // Deku: only descendant of current sync-checkpoint is allowed
     bool ValidateSyncCheckpoint(uint256 hashCheckpoint)
     {
         if (!mapBlockIndex.count(hashSyncCheckpoint))
@@ -245,7 +245,7 @@ namespace Checkpoints
         return false;
     }
 
-    // Boko: reset synchronized checkpoint to last hardened checkpoint
+    // Deku: reset synchronized checkpoint to last hardened checkpoint
     bool ResetSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -370,12 +370,12 @@ namespace Checkpoints
     }
 }
 
-// Boko: sync-checkpoint master key
+// Deku: sync-checkpoint master key
 const std::string CSyncCheckpoint::strMasterPubKey = "04c0c707c28533fd5c9f79d2d3a2d80dff259ad8f915241cd14608fb9bc07c74830efe8438f2b272a866b4af5e0c2cc2a9909972aefbd976937e39f46bb38c277c";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
-// Boko: verify signature of sync-checkpoint message
+// Deku: verify signature of sync-checkpoint message
 bool CSyncCheckpoint::CheckSignature()
 {
     CKey key;
@@ -390,7 +390,7 @@ bool CSyncCheckpoint::CheckSignature()
     return true;
 }
 
-// Boko: process synchronized checkpoint
+// Deku: process synchronized checkpoint
 bool CSyncCheckpoint::ProcessSyncCheckpoint(CNode* pfrom)
 {
     if (!CheckSignature())

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Boko (Boko) debug window</string>
+   <string>Deku (Deku) debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>

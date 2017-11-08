@@ -1,7 +1,7 @@
 src/*.exe
-src/Boko
-src/Bokod
-src/test_Boko
+src/Deku
+src/Dekud
+src/test_Deku
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.Boko
+.Deku
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-Boko-qt
+Deku-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
