@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("808");
-    case mBTC: return QString("m808");
-    case uBTC: return QString::fromUtf8("μ808");
+    case BTC: return QString("Boko");
+    case mBTC: return QString("mBoko");
+    case uBTC: return QString::fromUtf8("μBoko");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("808s");
-    case mBTC: return QString("Milli-808s (1 / 1,000)");
-    case uBTC: return QString("Micro-808s (1 / 1,000,000)");
+    case BTC: return QString("Bokos");
+    case mBTC: return QString("Milli-Bokos (1 / 1,000)");
+    case uBTC: return QString("Micro-Bokos (1 / 1,000,000)");
     default: return QString("???");
     }
 }

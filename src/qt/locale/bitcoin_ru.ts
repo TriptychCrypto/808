@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About 808</source>
-        <translation>О 808</translation>
+        <source>About Boko</source>
+        <translation>О Boko</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;808&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;808&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 808 Developers</source>
-        <translation>Право собственности © 2014 808 Developers</translation>
+        <source>Copyright © 2014 Boko Developers</source>
+        <translation>Право собственности © 2014 Boko Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 808 Developers</source>
-        <translation>Право собственности © 2011-2014 808 Developers</translation>
+        <source>Copyright © 2011-2014 Boko Developers</source>
+        <translation>Право собственности © 2011-2014 Boko Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your 808 addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Это адреса 808 для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
+        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Это адреса Boko для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>808 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 808s from being stolen by malware infecting your computer.</source>
-        <translation>808 сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи 808, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
+        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
+        <translation>Boko сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи Boko, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about 808</source>
-        <translation>Показать информацию о 808</translation>
+        <source>Show information about Boko</source>
+        <translation>Показать информацию о Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,39 +497,39 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>808 Wallet</source>
-        <translation>Кошелек 808 </translation>
+        <source>Boko Wallet</source>
+        <translation>Кошелек Boko </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a 808 address</source>
-        <translation>Отправить монеты на адрес 808 </translation>
+        <source>Send coins to a Boko address</source>
+        <translation>Отправить монеты на адрес Boko </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About 808</source>
-        <translation>О 808 </translation>
+        <source>&amp;About Boko</source>
+        <translation>О Boko </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for 808</source>
-        <translation>Изменить параметры конфигурации 808 </translation>
+        <source>Modify configuration options for Boko</source>
+        <translation>Изменить параметры конфигурации Boko </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;808</source>
-        <translation>Скрыть/Показать 808</translation>
+        <source>Show/Hide &amp;Boko</source>
+        <translation>Скрыть/Показать Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the 808 window</source>
-        <translation>Скрыть или показать окно программы 808
+        <source>Show or hide the Boko window</source>
+        <translation>Скрыть или показать окно программы Boko
 </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>808 client</source>
-        <translation>Клиент 808 </translation>
+        <source>Boko client</source>
+        <translation>Клиент Boko </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -538,7 +538,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to 808 network</source>
+        <source>%n active connection(s) to Boko network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. 808 can no longer continue safely and will quit.</source>
-        <translation>Произошла фатальная ошибка. 808 не может продолжать работать нормально и закрывается. </translation>
+        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
+        <translation>Произошла фатальная ошибка. Boko не может продолжать работать нормально и закрывается. </translation>
     </message>
 </context>
 <context>
@@ -984,8 +984,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show 808 addresses in the transaction list</source>
-        <translation>Отображать адреса 808 в списке транзакций</translation>
+        <source>Whether to show Boko addresses in the transaction list</source>
+        <translation>Отображать адреса Boko в списке транзакций</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1052,8 +1052,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid 808 address.</source>
-        <translation>Введенный адрес &quot;%1&quot; не является допустимым адресом для 808.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
+        <translation>Введенный адрес &quot;%1&quot; не является допустимым адресом для Boko.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1095,8 +1095,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the 808 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открывать порт клиента 808 на роутере. Это будет работать, только если роутер поддерживает UPnP и он включен.</translation>
+        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открывать порт клиента Boko на роутере. Это будет работать, только если роутер поддерживает UPnP и он включен.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1106,7 +1106,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Подключаться к сети 808 через SOCKS4 прокси (например, при использовании Tor)</translation>
+        <translation>Подключаться к сети Boko через SOCKS4 прокси (например, при использовании Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1130,8 +1130,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 808 fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Обязательные операционные платы за каждый килобайт перечислены. Большинство операций имеют меньше 1 килобайта и оплачиваются в размере 0.01 808. Замечание: размер перевода может увеличиваться в зависимости от количества входных операций, добавляемых вместе, чтобы финансировать оплату. </translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Обязательные операционные платы за каждый килобайт перечислены. Большинство операций имеют меньше 1 килобайта и оплачиваются в размере 0.01 Boko. Замечание: размер перевода может увеличиваться в зависимости от количества входных операций, добавляемых вместе, чтобы финансировать оплату. </translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1150,13 +1150,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start 808 on window system startup</source>
-        <translation>Запускать 808 при запуске компьютера</translation>
+        <source>&amp;Start Boko on window system startup</source>
+        <translation>Запускать Boko при запуске компьютера</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start 808 after the computer is turned on</source>
-        <translation>Автоматически запускать 808 после включения компьютера</translation>
+        <source>Automatically start Boko after the computer is turned on</source>
+        <translation>Автоматически запускать Boko после включения компьютера</translation>
     </message>
 </context>
 <context>
@@ -1440,8 +1440,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>808</source>
-        <translation>808</translation>
+        <source>Boko</source>
+        <translation>Boko</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1483,8 +1483,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>808 (808) debug window</source>
-        <translation>Окно отладки 808 (808)</translation>
+        <source>Boko (Boko) debug window</source>
+        <translation>Окно отладки Boko (Boko)</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1575,8 +1575,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the 808 RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Добро пожаловать в консоль 808 RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
+        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Добро пожаловать в консоль Boko RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
     </message>
 </context>
 <context>
@@ -1809,8 +1809,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a 808 address</source>
-        <translation>Введите адрес 808 </translation>
+        <source>Enter a Boko address</source>
+        <translation>Введите адрес Boko </translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a 808 address</source>
-        <translation>Введите адрес 808 </translation>
+        <source>Enter a Boko address</source>
+        <translation>Введите адрес Boko </translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this 808 address</source>
-        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого 808 адреса </translation>
+        <source>Sign the message to prove you own this Boko address</source>
+        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого Boko адреса </translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1999,8 +1999,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified 808 address</source>
-        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным 808 адресом</translation>
+        <source>Verify the message to ensure it was signed with the specified Boko address</source>
+        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным Boko адресом</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2025,8 +2025,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a 808 address</source>
-        <translation>Введите адрес 808 </translation>
+        <source>Enter a Boko address</source>
+        <translation>Введите адрес Boko </translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2587,18 +2587,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  808 is probably already running.</source>
-        <translation>Невозможно связаться с портом %d на компьютере. 808, вероятно, уже запущена. </translation>
+        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
+        <translation>Невозможно связаться с портом %d на компьютере. Boko, вероятно, уже запущена. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>808 version</source>
-        <translation>Версия 808</translation>
+        <source>Boko version</source>
+        <translation>Версия Boko</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or 808d</source>
-        <translation>Отправить команду на -server или 808d</translation>
+        <source>Send command to -server or Bokod</source>
+        <translation>Отправить команду на -server или Bokod</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2618,13 +2618,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: 808.conf)</source>
-        <translation>Указать файл конфигурации системы (default: 808.conf)</translation>
+        <source>Specify configuration file (default: Boko.conf)</source>
+        <translation>Указать файл конфигурации системы (default: Boko.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: 808d.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: 808.pid)</translation>
+        <source>Specify pid file (default: Bokod.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: Boko.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2678,8 +2678,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 8087 or testnet: 9903)</source>
-        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 8333 или 18333 в тестовой сети) {8087 ?} {9903)?}</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
+        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 8333 или 18333 в тестовой сети) {Boko7 ?} {9903)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8085)</source>
-        <translation>Ожидать подключения JSON-RPC на &lt;порт&gt; (по умолчанию: 8332) {8085)?}</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
+        <translation>Ожидать подключения JSON-RPC на &lt;порт&gt; (по умолчанию: 8332) {Boko5)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
@@ -2879,23 +2879,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  808 is probably already running.</source>
-        <translation>Невозможно получить блокировку на каталог данных %s. 808 вероятно уже запущена. </translation>
+        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
+        <translation>Невозможно получить блокировку на каталог данных %s. Boko вероятно уже запущена. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>808</source>
-        <translation>808</translation>
+        <source>Boko</source>
+        <translation>Boko</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of 808</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию 808. </translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию Boko. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart 808 to complete</source>
-        <translation>Кошелек должен быть переписан: перезапустите 808, чтобы завершить процесс</translation>
+        <source>Wallet needed to be rewritten: restart Boko to complete</source>
+        <translation>Кошелек должен быть переписан: перезапустите Boko, чтобы завершить процесс</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2911,8 +2911,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong 808 will not work properly.</source>
-        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, 808 не будет работать должным образом. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
+        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, Boko не будет работать должным образом. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

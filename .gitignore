@@ -1,7 +1,7 @@
 src/*.exe
-src/808
-src/808d
-src/test_808
+src/Boko
+src/Bokod
+src/test_Boko
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.808
+.Boko
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-808-qt
+Boko-qt
 #resources cpp
 qrc_*.cpp
 #qt creator

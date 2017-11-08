@@ -1,9 +1,9 @@
 /*
- * Qt4 808 GUI.
+ * Qt4 Boko GUI.
  *
  * W.J. van der Laan 2011-2012
  * The Bitcoin Developers 2011-2012
- * The 808 Developers 2011-2013
+ * The Boko Developers 2011-2013
  */
 #include "bitcoingui.h"
 #include "transactiontablemodel.h"
@@ -79,9 +79,9 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("808 Wallet"));
+    setWindowTitle(tr("Boko Wallet"));
 #ifndef Q_WS_MAC
-    setWindowIcon(QIcon(":icons/808_icon"));
+    setWindowIcon(QIcon(":icons/Boko_icon"));
 #else
     setUnifiedTitleAndToolBarOnMac(true);
     QApplication::setAttribute(Qt::AA_DontShowIconsInMenus);
@@ -229,7 +229,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(receiveCoinsAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send coins"), this);
-    sendCoinsAction->setToolTip(tr("Send coins to a 808 address"));
+    sendCoinsAction->setToolTip(tr("Send coins to a Boko address"));
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
@@ -275,17 +275,17 @@ void BitcoinGUI::createActions()
     quitAction->setToolTip(tr("Quit application"));
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
-    aboutAction = new QAction(QIcon(":/icons/808_tooltip"), tr("&About 808"), this);
-    aboutAction->setToolTip(tr("Show information about 808"));
+    aboutAction = new QAction(QIcon(":/icons/Boko_tooltip"), tr("&About Boko"), this);
+    aboutAction->setToolTip(tr("Show information about Boko"));
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(QIcon(":/icons/qt"), tr("About &Qt"), this);
     aboutQtAction->setToolTip(tr("Show information about Qt"));
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for 808"));
+    optionsAction->setToolTip(tr("Modify configuration options for Boko"));
     optionsAction->setMenuRole(QAction::PreferencesRole);
-    toggleHideAction = new QAction(QIcon(":/icons/808_tooltip"), tr("Show/Hide &808"), this);
-    toggleHideAction->setToolTip(tr("Show or hide the 808 window"));
+    toggleHideAction = new QAction(QIcon(":/icons/Boko_tooltip"), tr("Show/Hide &Boko"), this);
+    toggleHideAction->setToolTip(tr("Show or hide the Boko window"));
     exportAction = new QAction(QIcon(":/icons/export"), tr("&Export..."), this);
     exportAction->setToolTip(tr("Export the data in the current tab to a file"));
     encryptWalletAction = new QAction(QIcon(":/icons/lock_closed"), tr("&Encrypt Wallet"), this);
@@ -377,14 +377,14 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
             QString title_testnet = windowTitle() + QString(" ") + tr("[testnet]");
             setWindowTitle(title_testnet);
 #ifndef Q_WS_MAC
-            setWindowIcon(QIcon(":icons/808_icon"));
+            setWindowIcon(QIcon(":icons/Boko_icon"));
 #else
-            MacDockIconHandler::instance()->setIcon(QIcon(":icons/808_icon"));
+            MacDockIconHandler::instance()->setIcon(QIcon(":icons/Boko_icon"));
 #endif
             if(trayIcon)
             {
                 trayIcon->setToolTip(title_testnet);
-                trayIcon->setIcon(QIcon(":/icons/808_tooltip"));
+                trayIcon->setIcon(QIcon(":/icons/Boko_tooltip"));
             }
         }
 
@@ -440,8 +440,8 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("808 client"));
-    trayIcon->setIcon(QIcon(":/icons/808_tooltip"));
+    trayIcon->setToolTip(tr("Boko client"));
+    trayIcon->setIcon(QIcon(":/icons/Boko_tooltip"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
             this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
     trayIcon->show();
@@ -533,7 +533,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to 808 network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Boko network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count)

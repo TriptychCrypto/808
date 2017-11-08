@@ -210,7 +210,7 @@
              str.append(lol7);
              str.append(": ");
              str.append(amount);
-             str.append(" 808");
+             str.append(" Boko");
              str.append("\n");
      }
  
@@ -254,7 +254,7 @@
              str.append(lol6);
              str.append(": ");
              str.append(amount);
-             str.append("808");
+             str.append("Boko");
              str.append("\n");
      }
  
@@ -432,11 +432,11 @@
          QString QOutputs = QString::fromUtf8(outputs.c_str());
          QString QInputs = QString::fromUtf8(inputs.c_str());
          QString QFees = QString::number(fees, 'f', 6);
-         ui->valueBox->setText(QValue + " 808");
+         ui->valueBox->setText(QValue + " Boko");
          ui->txID->setText(QID);
          ui->outputBox->setText(QOutputs);
          ui->inputBox->setText(QInputs);
-         ui->feesBox->setText(QFees + " 808");
+         ui->feesBox->setText(QFees + " Boko");
      }
  }
  

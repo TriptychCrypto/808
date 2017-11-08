@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About 808</source>
-        <translation>Su 808</translation>
+        <source>About Boko</source>
+        <translation>Su Boko</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;808&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;808&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Boko&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 808 Developers</source>
-        <translation>Copyright © 2014 Sviluppatori 808</translation>
+        <source>Copyright © 2014 Boko Developers</source>
+        <translation>Copyright © 2014 Sviluppatori Boko</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 808 Developers</source>
-        <translation>Copyright © 2011-2014 Sviluppatori 808 </translation>
+        <source>Copyright © 2011-2014 Boko Developers</source>
+        <translation>Copyright © 2011-2014 Sviluppatori Boko </translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;util
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your 808 addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Questi sono i tuoi indirizzi 808 per la ricezione di pagamenti. Potresti dare un indirizzo differente ad ogni mittente per tenere traccia di chi ti sta pagando.</translation>
+        <source>These are your Boko addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Questi sono i tuoi indirizzi Boko per la ricezione di pagamenti. Potresti dare un indirizzo differente ad ogni mittente per tenere traccia di chi ti sta pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Sei sicuro che vuoi cifrare il tuo portafoglio?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>808 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 808s from being stolen by malware infecting your computer.</source>
-        <translation>808 si chiuderà adesso per finire il processo di criptazione. Ricorda che criptare il tuo portafoglio non può proteggere completamente i tuoi 808 da essere rubati con malware che ha infettato il tuo computer.</translation>
+        <source>Boko will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Bokos from being stolen by malware infecting your computer.</source>
+        <translation>Boko si chiuderà adesso per finire il processo di criptazione. Ricorda che criptare il tuo portafoglio non può proteggere completamente i tuoi Boko da essere rubati con malware che ha infettato il tuo computer.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Sei sicuro che vuoi cifrare il tuo portafoglio?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about 808</source>
-        <translation>Mostra informazioni su 808</translation>
+        <source>Show information about Boko</source>
+        <translation>Mostra informazioni su Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Sei sicuro che vuoi cifrare il tuo portafoglio?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>808 Wallet</source>
-        <translation>Portafoglio 808</translation>
+        <source>Boko Wallet</source>
+        <translation>Portafoglio Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a 808 address</source>
-        <translation>Invia monete ad un indirizzo 808</translation>
+        <source>Send coins to a Boko address</source>
+        <translation>Invia monete ad un indirizzo Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About 808</source>
-        <translation>Su 808</translation>
+        <source>&amp;About Boko</source>
+        <translation>Su Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for 808</source>
-        <translation>Modifica opzioni di configurazione per 808</translation>
+        <source>Modify configuration options for Boko</source>
+        <translation>Modifica opzioni di configurazione per Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;808</source>
-        <translation>Mostra/Nascondi 808</translation>
+        <source>Show/Hide &amp;Boko</source>
+        <translation>Mostra/Nascondi Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the 808 window</source>
-        <translation>Mostra o nascondi la finestra di 808</translation>
+        <source>Show or hide the Boko window</source>
+        <translation>Mostra o nascondi la finestra di Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>808 client</source>
-        <translation>Client 808</translation>
+        <source>Boko client</source>
+        <translation>Client Boko</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Sei sicuro che vuoi cifrare il tuo portafoglio?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to 808 network</source>
+        <source>%n active connection(s) to Boko network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -679,8 +679,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. 808 can no longer continue safely and will quit.</source>
-        <translation>Un errore fatale è occorso. 808 non può più continuare in modo sicuro e sarà terminato.</translation>
+        <source>A fatal error occured. Boko can no longer continue safely and will quit.</source>
+        <translation>Un errore fatale è occorso. Boko non può più continuare in modo sicuro e sarà terminato.</translation>
     </message>
 </context>
 <context>
@@ -978,8 +978,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show 808 addresses in the transaction list</source>
-        <translation>Se mostrare gli indirizzi 808 nella lista transazioni</translation>
+        <source>Whether to show Boko addresses in the transaction list</source>
+        <translation>Se mostrare gli indirizzi Boko nella lista transazioni</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1046,8 +1046,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid 808 address.</source>
-        <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo 808 valido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Boko address.</source>
+        <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo Boko valido.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1089,8 +1089,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the 808 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aprire automaticamente la porta del client 808 nel router. Questo funziona solamente quando il supporto UPnp del router è abilitato.</translation>
+        <source>Automatically open the Boko client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aprire automaticamente la porta del client Boko nel router. Questo funziona solamente quando il supporto UPnp del router è abilitato.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1124,8 +1124,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 808 fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Tariffa di transazione della rete obbligatoria per kB trasferito. La maggior parte delle transazioni sono 1kB ed hanno una tariffa di 0.01 808. Nota: la dimensione del trasferimento aumenta a seconda del numero delle transazioni di input totali necessarie per finanziare il pagamento.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 Boko fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Tariffa di transazione della rete obbligatoria per kB trasferito. La maggior parte delle transazioni sono 1kB ed hanno una tariffa di 0.01 Boko. Nota: la dimensione del trasferimento aumenta a seconda del numero delle transazioni di input totali necessarie per finanziare il pagamento.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1144,13 +1144,13 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start 808 on window system startup</source>
-        <translation>Avvia 808 a finestra all&apos;avvio del sistema</translation>
+        <source>&amp;Start Boko on window system startup</source>
+        <translation>Avvia Boko a finestra all&apos;avvio del sistema</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start 808 after the computer is turned on</source>
-        <translation>Automaticamente avvia 808 dopo che il computer è stato acceso</translation>
+        <source>Automatically start Boko after the computer is turned on</source>
+        <translation>Automaticamente avvia Boko dopo che il computer è stato acceso</translation>
     </message>
 </context>
 <context>
@@ -1434,8 +1434,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>808</source>
-        <translation>808</translation>
+        <source>Boko</source>
+        <translation>Boko</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1477,8 +1477,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>808 (808) debug window</source>
-        <translation>Finestra debug 808 (808)</translation>
+        <source>Boko (Boko) debug window</source>
+        <translation>Finestra debug Boko (Boko)</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1569,8 +1569,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the 808 RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Benvenuto alla console 808 RPC.&lt;br&gt;Utilizza le frecce in alto e in basso per navigare la cronologia, e &lt;b&gt;Ctrl-L&lt;/b&gt;per cancellare lo schermo.&lt;br&gt;Scrivi &lt;b&gt;aiuto&lt;/b&gt; per una panoramica dei comandi disponibili.</translation>
+        <source>Welcome to the Boko RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Benvenuto alla console Boko RPC.&lt;br&gt;Utilizza le frecce in alto e in basso per navigare la cronologia, e &lt;b&gt;Ctrl-L&lt;/b&gt;per cancellare lo schermo.&lt;br&gt;Scrivi &lt;b&gt;aiuto&lt;/b&gt; per una panoramica dei comandi disponibili.</translation>
     </message>
 </context>
 <context>
@@ -1585,7 +1585,7 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
         <location filename="../sendcoinsdialog.cpp" line="202"/>
         <location filename="../sendcoinsdialog.cpp" line="207"/>
         <source>Send Coins</source>
-        <translation>Spedisci 808</translation>
+        <translation>Spedisci Boko</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="90"/>
@@ -1764,7 +1764,7 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="149"/>
         <source>Confirm send coins</source>
-        <translation>Conferma la spedizione di 808</translation>
+        <translation>Conferma la spedizione di Boko</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="150"/>
@@ -1803,8 +1803,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a 808 address</source>
-        <translation>Inserisci un indirzzo 808</translation>
+        <source>Enter a Boko address</source>
+        <translation>Inserisci un indirzzo Boko</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1892,8 +1892,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a 808 address</source>
-        <translation>Inserisci un indirzzo 808</translation>
+        <source>Enter a Boko address</source>
+        <translation>Inserisci un indirzzo Boko</translation>
     </message>
 </context>
 <context>
@@ -1957,8 +1957,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this 808 address</source>
-        <translation>Firma un messaggio per dimostrare di possedere questo indirizzo 808</translation>
+        <source>Sign the message to prove you own this Boko address</source>
+        <translation>Firma un messaggio per dimostrare di possedere questo indirizzo Boko</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1993,8 +1993,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified 808 address</source>
-        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirzzo 808 specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified Boko address</source>
+        <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirzzo Boko specificato</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2019,8 +2019,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a 808 address</source>
-        <translation>Inserisci un indirzzo 808</translation>
+        <source>Enter a Boko address</source>
+        <translation>Inserisci un indirzzo Boko</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2232,7 +2232,7 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     <message>
         <location filename="../transactiondesc.cpp" line="234"/>
         <source>Generated coins must wait 520 blocks before they can be spent.  When you generated this block, it was broadcast to the network to be added to the block chain.  If it fails to get into the chain, it will change to &quot;not accepted&quot; and not be spendable.  This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Bisogna attendere 120 blocchi prima di spendere I 808 generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo. {520 ?}</translation>
+        <translation>Bisogna attendere 120 blocchi prima di spendere I Boko generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo. {520 ?}</translation>
     </message>
     <message>
         <location filename="../transactiondesc.cpp" line="236"/>
@@ -2578,18 +2578,18 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  808 is probably already running.</source>
-        <translation>Impossibile connettersi con la porta %d su questo computer. 808 è probabilmente già in funzione.</translation>
+        <source>Unable to bind to port %d on this computer.  Boko is probably already running.</source>
+        <translation>Impossibile connettersi con la porta %d su questo computer. Boko è probabilmente già in funzione.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>808 version</source>
-        <translation>Versione 808</translation>
+        <source>Boko version</source>
+        <translation>Versione Boko</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or 808d</source>
-        <translation>Invia un comando al -server o 808d</translation>
+        <source>Send command to -server or Bokod</source>
+        <translation>Invia un comando al -server o Bokod</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2611,25 +2611,25 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: 808.conf)</source>
-        <translation>Specifia il file di configurazione (default: 808.conf)</translation>
+        <source>Specify configuration file (default: Boko.conf)</source>
+        <translation>Specifia il file di configurazione (default: Boko.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: 808d.pid)</source>
-        <translation>Specifica il file pid (default: 808d.pid)
+        <source>Specify pid file (default: Bokod.pid)</source>
+        <translation>Specifica il file pid (default: Bokod.pid)
 </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
         <source>Generate coins</source>
-        <translation>Genera 808
+        <translation>Genera Boko
 </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="21"/>
         <source>Don&apos;t generate coins</source>
-        <translation>Non generare 808
+        <translation>Non generare Boko
 </translation>
     </message>
     <message>
@@ -2679,8 +2679,8 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 8087 or testnet: 9903)</source>
-        <translation>Ascolta le connessioni JSON-RPC su &lt;porta&gt; (default: 8333 o testnet: 18333) {8087 ?} {9903)?}</translation>
+        <source>Listen for connections on &lt;port&gt; (default: Boko7 or testnet: 9903)</source>
+        <translation>Ascolta le connessioni JSON-RPC su &lt;porta&gt; (default: 8333 o testnet: 18333) {Boko7 ?} {9903)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2805,9 +2805,9 @@ Questo significa che è necessaria una tariffa di almeno %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8085)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: Boko5)</source>
         <translation>Attendi le connessioni JSON-RPC su &lt;porta&gt; (default: 8332)
- {8085)?}</translation>
+ {Boko5)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
@@ -2895,23 +2895,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  808 is probably already running.</source>
-        <translation>Non è possibile ottenere il lock sulla directory dati %s. 808 è probabilmente già in funzione.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Boko is probably already running.</source>
+        <translation>Non è possibile ottenere il lock sulla directory dati %s. Boko è probabilmente già in funzione.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>808</source>
-        <translation>808</translation>
+        <source>Boko</source>
+        <translation>Boko</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of 808</source>
-        <translation>Errore caricamento wallet.dat. Il portafoglio richiede una nuova versione di 808</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Boko</source>
+        <translation>Errore caricamento wallet.dat. Il portafoglio richiede una nuova versione di Boko</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart 808 to complete</source>
-        <translation>Il portafoglio deve essere riscritto: riavvia 808 per completare</translation>
+        <source>Wallet needed to be rewritten: restart Boko to complete</source>
+        <translation>Il portafoglio deve essere riscritto: riavvia Boko per completare</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2927,8 +2927,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong 808 will not work properly.</source>
-        <translation>Attenzione: Per favore controlla che la data e l&apos;orario del tuo computer sono corretti. Se il tuo orario è sbagliato 808 non funzionerà correttamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Boko will not work properly.</source>
+        <translation>Attenzione: Per favore controlla che la data e l&apos;orario del tuo computer sono corretti. Se il tuo orario è sbagliato Boko non funzionerà correttamente.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

@@ -1,6 +1,6 @@
-808 (808) 0.4.0 BETA
+Boko (Boko) 0.4.0 BETA
 
-Copyright (c) 2011-2014 808 (808) Developers
+Copyright (c) 2011-2014 Boko (Boko) Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -10,7 +10,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-808 is a free open source project derived from Bitcoin, with
+Boko is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient crypto-currency.
 Built on the foundation of Bitcoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
@@ -18,35 +18,35 @@ help further advance the field of crypto-currency.
 
 Setup
 -----
-After completing windows setup then run 808-qt.
-Alternatively you can run windows command line (cmd) in 808 program dir.
+After completing windows setup then run Boko-qt.
+Alternatively you can run windows command line (cmd) in Boko program dir.
   cd daemon
-  808d
-You would need to create a configuration file 808.conf in the default
-wallet directory. Grant access to 808d/808-qt in anti-virus and firewall
+  Bokod
+You would need to create a configuration file Boko.conf in the default
+wallet directory. Grant access to Bokod/Boko-qt in anti-virus and firewall
 applications if necessary.
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
-or forward port 8087 (TCP) to your computer so you can receive
-incoming connections.  808 works without incoming connections,
-but allowing incoming connections helps the 808 network.
+or forward port Boko7 (TCP) to your computer so you can receive
+incoming connections.  Boko works without incoming connections,
+but allowing incoming connections helps the Boko network.
 
 
 Upgrade
 -------
 All your existing coins/transactions should be intact with the upgrade.
 To upgrade from 0.3, first backup wallet in qt menu or by command line
-808d backupwallet <destination_backup_file>
-Then shutdown 808d by
-808d stop
+Bokod backupwallet <destination_backup_file>
+Then shutdown Bokod by
+Bokod stop
 Uninstall v0.3 client, download and install v0.4 client.
 If upgrade is performed after upgrade deadline, blockchain re-download is
 required.
 
 
 See the documentation/wiki at github:
-  http://github.com/808/808
+  http://github.com/Boko/Boko
 for help and more information.
 
 
